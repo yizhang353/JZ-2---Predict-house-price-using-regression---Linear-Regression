@@ -1,1 +1,1 @@
-# JZ-1---Predict-house-price-using-regression---Linear-Regression
+# JZ-2---Predict-house-price-using-regression---Linear-Regression
